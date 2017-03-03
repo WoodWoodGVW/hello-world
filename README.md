@@ -1,1 +1,2 @@
- - here is a bit about myself # hello-world
+# hello-world
+here is a bit about me
